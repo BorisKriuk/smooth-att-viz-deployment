@@ -1,0 +1,8 @@
+Flask==2.3.2
+Werkzeug==2.3.6
+Flask-CORS==3.0.10
+torch==2.0.1
+numpy
+torchvision==0.15.2
+Pillow
+gunicorn==20.1.0
